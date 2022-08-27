@@ -3,7 +3,6 @@ is a tip calculator application for iOS.
 
 Submitted by: Omar Muniz
 
-Time spent: **X** hours spent in total
 
 ## User Stories
 
